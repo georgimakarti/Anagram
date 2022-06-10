@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\Programming\Anagrama\Anagrama\bin\Debug\net6.0\Anagrama.exe
+C:\Users\georg\Desktop\Programming\Anagrama\Anagrama\bin\Debug\net6.0\Anagrama.deps.json
+C:\Users\georg\Desktop\Programming\Anagrama\Anagrama\bin\Debug\net6.0\Anagrama.runtimeconfig.json
+C:\Users\georg\Desktop\Programming\Anagrama\Anagrama\bin\Debug\net6.0\Anagrama.dll
+C:\Users\georg\Desktop\Programming\Anagrama\Anagrama\bin\Debug\net6.0\Anagrama.pdb
+C:\Users\georg\Desktop\Programming\Anagrama\Anagrama\obj\Debug\net6.0\Anagrama.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\Programming\Anagrama\Anagrama\obj\Debug\net6.0\Anagrama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\Programming\Anagrama\Anagrama\obj\Debug\net6.0\Anagrama.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\Programming\Anagrama\Anagrama\obj\Debug\net6.0\Anagrama.AssemblyInfo.cs
+C:\Users\georg\Desktop\Programming\Anagrama\Anagrama\obj\Debug\net6.0\Anagrama.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Programming\Anagrama\Anagrama\obj\Debug\net6.0\Anagrama.dll
+C:\Users\georg\Desktop\Programming\Anagrama\Anagrama\obj\Debug\net6.0\refint\Anagrama.dll
+C:\Users\georg\Desktop\Programming\Anagrama\Anagrama\obj\Debug\net6.0\Anagrama.pdb
+C:\Users\georg\Desktop\Programming\Anagrama\Anagrama\obj\Debug\net6.0\Anagrama.genruntimeconfig.cache
+C:\Users\georg\Desktop\Programming\Anagrama\Anagrama\obj\Debug\net6.0\ref\Anagrama.dll

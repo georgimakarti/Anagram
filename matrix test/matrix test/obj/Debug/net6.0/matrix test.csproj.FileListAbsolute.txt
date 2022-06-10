@@ -1,0 +1,15 @@
+C:\Users\georgimakarti\Desktop\C# Projects\matrix test\matrix test\bin\Debug\net6.0\matrix test.exe
+C:\Users\georgimakarti\Desktop\C# Projects\matrix test\matrix test\bin\Debug\net6.0\matrix test.deps.json
+C:\Users\georgimakarti\Desktop\C# Projects\matrix test\matrix test\bin\Debug\net6.0\matrix test.runtimeconfig.json
+C:\Users\georgimakarti\Desktop\C# Projects\matrix test\matrix test\bin\Debug\net6.0\matrix test.dll
+C:\Users\georgimakarti\Desktop\C# Projects\matrix test\matrix test\bin\Debug\net6.0\matrix test.pdb
+C:\Users\georgimakarti\Desktop\C# Projects\matrix test\matrix test\obj\Debug\net6.0\matrix test.csproj.AssemblyReference.cache
+C:\Users\georgimakarti\Desktop\C# Projects\matrix test\matrix test\obj\Debug\net6.0\matrix test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georgimakarti\Desktop\C# Projects\matrix test\matrix test\obj\Debug\net6.0\matrix test.AssemblyInfoInputs.cache
+C:\Users\georgimakarti\Desktop\C# Projects\matrix test\matrix test\obj\Debug\net6.0\matrix test.AssemblyInfo.cs
+C:\Users\georgimakarti\Desktop\C# Projects\matrix test\matrix test\obj\Debug\net6.0\matrix test.csproj.CoreCompileInputs.cache
+C:\Users\georgimakarti\Desktop\C# Projects\matrix test\matrix test\obj\Debug\net6.0\matrix test.dll
+C:\Users\georgimakarti\Desktop\C# Projects\matrix test\matrix test\obj\Debug\net6.0\refint\matrix test.dll
+C:\Users\georgimakarti\Desktop\C# Projects\matrix test\matrix test\obj\Debug\net6.0\matrix test.pdb
+C:\Users\georgimakarti\Desktop\C# Projects\matrix test\matrix test\obj\Debug\net6.0\matrix test.genruntimeconfig.cache
+C:\Users\georgimakarti\Desktop\C# Projects\matrix test\matrix test\obj\Debug\net6.0\ref\matrix test.dll
